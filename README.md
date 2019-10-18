@@ -8,6 +8,7 @@ This repository contains all the Python materials we use for teaching.
 * Conditional Statements
 * For Loops and While Loops
 * Functions and Modules
+* Manipulating Text Files
 * Vizualization with Matplotlib
 
 ### Tools for Data Science
@@ -16,6 +17,7 @@ This repository contains all the Python materials we use for teaching.
 * Scipy
 * Pandas
 * Scientific Data Format Files (netCDF4 and h5py)
+* Advance Visualization with Bokeh
 
 ### Best Practices
 
@@ -35,5 +37,6 @@ This repository contains all the Python materials we use for teaching.
 * Passing Parameters to Applications
 * List Comprehension
 * Error Handling
+* Overview of IO (manipulating various file formats: text, bin, cvs, nc4, hdf5, etc.)
 
 
