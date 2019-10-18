@@ -17,7 +17,8 @@ This repository contains all the Python materials we use for teaching.
 * Scipy
 * Pandas
 * Scientific Data Format Files (netCDF4 and h5py)
-* Advance Visualization with Bokeh
+* Advanced Visualization with Bokeh
+* Introduction to Machine Learning
 
 ### Best Practices
 
@@ -33,10 +34,11 @@ This repository contains all the Python materials we use for teaching.
 
 ### Other Topics
 
+* Object Oriented Programming
 * Data Retrieval
 * Passing Parameters to Applications
 * List Comprehension
-* Error Handling
+* Execption Handling
 * Overview of IO (manipulating various file formats: text, bin, cvs, nc4, hdf5, etc.)
 
 
