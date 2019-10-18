@@ -33,10 +33,11 @@ This repository contains all the Python materials we use for teaching.
 
 ### Other Topics
 
+* Object Oriented Programming
 * Data Retrieval
 * Passing Parameters to Applications
 * List Comprehension
-* Error Handling
+* Execption Handling
 * Overview of IO (manipulating various file formats: text, bin, cvs, nc4, hdf5, etc.)
 
 
