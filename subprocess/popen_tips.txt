@@ -1,0 +1,50 @@
+#########
+# Do not pass shell=True if you're going to pass a list to Popen
+#########
+
+Popen('ls -l',shell=True)
+
+is equivalent to:
+
+Popen(['ls','-l'])
+
+but not this:
+
+Popen(['ls','-l'],shell=True)
+
+#########
+# split args instead of one string
+#########
+
+import shlex
+shlex.split("program -w ith -a 'quoted argument'")
+
+will return:
+
+['program', '-w', 'ith', '-a', 'quoted argument']
+
+from subprocess import PIPE
+
+args = ['nc', '-w' '1' 'server.com' 'port_num']
+p = subprocess.Popen(args, stdin=PIPE, stdout=PIPE)
+output = p.communicate("get file.ext")
+print output[0]
+
+#######
+
+def runCmd(self,cmd):
+    args = shlex.split(cmd)
+    return subprocess.Popen(args)
+
+def openTunnel
+    cmd = 'ssh -N -L 1313:localhost:1313 userid@server.com'
+    #cmd = 'ssh -f -N -L 1313:localhost:1313 userid@server.com'
+    # -f sends the tunnel to the background and prevent Python
+    # from killing the process
+    self.TunnelObj = self.runCmd(cmd)
+
+def closeSocket(self):
+    print '\nClosing Tunnel\n'
+    if self.TunnelObj.returncode == None: 
+       print '\nabout to kill\n'
+       self.TunnelObj.kill()
