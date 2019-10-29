@@ -17,7 +17,6 @@ This repository contains all the Python materials we use for teaching.
 * Scipy
 * Pandas
 * Scientific Data Format Files (netCDF4 and h5py)
-* Advanced Visualization with Bokeh
 * Introduction to Machine Learning
 
 ### Best Practices
