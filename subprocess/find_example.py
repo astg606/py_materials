@@ -5,7 +5,7 @@ import os
  
 def find():
  
-    y = input("Enter a text you want to search on the system!")
+    y = raw_input("Enter a text you want to search on the system!")
  
     s = y.rstrip("\n")
  
