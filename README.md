@@ -30,6 +30,7 @@ This repository contains all the Python materials we use for teaching.
 * datetime
 * subprocess
 * xlrd
+* pickle
 
 ### Other Topics
 
