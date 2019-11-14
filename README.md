@@ -10,7 +10,7 @@ This repository contains all the Python materials we use for teaching.
 * For Loops and While Loops
 * Functions and Modules
 * Manipulating Text Files
-* Vizualization with Matplotlib
+* Visualization with Matplotlib
 
 ### Tools for Data Science
 
