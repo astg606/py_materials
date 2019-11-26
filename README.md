@@ -26,13 +26,16 @@ This repository contains all the Python materials we use for teaching.
 * Optimizing Python Applications
 * Packaging and Deployment
 
+### Serialization and Deserialization
+
+* pickle
+* json
+
 ### Useful Modules
 
 * datetime
 * subprocess
 * xlrd
-* pickle
-* json
 
 ### Other Topics
 
@@ -40,7 +43,7 @@ This repository contains all the Python materials we use for teaching.
 * Data Retrieval
 * Passing Parameters to Applications (argparse, click, configparser)
 * List Comprehension
-* Execption Handling
+* Exception Handling
 * Overview of IO (manipulating various file formats: text, bin, cvs, nc4, hdf5, etc.)
 
 
