@@ -26,11 +26,6 @@ This repository contains all the Python materials we use for teaching.
 * Optimizing Python Applications
 * Packaging and Deployment
 
-### Serialization and Deserialization
-
-* pickle
-* json
-
 ### Useful Modules
 
 * datetime
@@ -40,6 +35,7 @@ This repository contains all the Python materials we use for teaching.
 ### Other Topics
 
 * Object Oriented Programming
+* Serialization and Deserialization (pickle, json)
 * Data Retrieval
 * Passing Parameters to Applications (argparse, click, configparser)
 * List Comprehension
