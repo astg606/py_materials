@@ -35,6 +35,7 @@ This repository contains all the Python materials we use for teaching.
 ### Other Topics
 
 * Object Oriented Programming
+* Python Decorators
 * Serialization and Deserialization (pickle, json)
 * Data Retrieval
 * Passing Parameters to Applications (argparse, click, configparser)
