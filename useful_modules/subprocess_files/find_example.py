@@ -5,10 +5,8 @@ import os
  
 def find():
  
-    y = raw_input("Enter a text you want to search on the system!")
- 
+    y = input("Enter a text you want to search on the system!")
     s = y.rstrip("\n")
- 
     print("string", s)
  
     find = subprocess.Popen([r"/usr/bin/find", "/", "-name", y, "-print"], stdout=subprocess.PIPE)
@@ -21,9 +19,7 @@ def find():
         print(list_stdout)
  
     file = subprocess.Popen([r"file", l], stdout=subprocess.PIPE)
- 
     file_stdout = file.communicate()[0]
- 
     print(file_stdout)
  
 def main():

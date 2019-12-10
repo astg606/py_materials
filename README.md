@@ -23,6 +23,7 @@ This repository contains all the Python materials we use for teaching.
 ### Best Practices
 
 * Python Coding Standards
+* List Comprehension
 * Optimizing Python Applications
 * Packaging and Deployment
 
@@ -39,7 +40,6 @@ This repository contains all the Python materials we use for teaching.
 * Serialization and Deserialization (pickle, json)
 * Data Retrieval
 * Passing Parameters to Applications (argparse, click, configparser)
-* List Comprehension
 * Exception Handling
 * Overview of IO (manipulating various file formats: text, bin, cvs, nc4, hdf5, etc.)
 
