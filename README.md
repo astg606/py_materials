@@ -36,6 +36,7 @@ This repository contains all the Python materials we use for teaching.
 ### Other Topics
 
 * Object Oriented Programming
+* Transitioning from Python 2 to Python 3
 * Python Decorators
 * Serialization and Deserialization (pickle, json)
 * Data Retrieval
