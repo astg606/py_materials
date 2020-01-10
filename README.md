@@ -12,14 +12,6 @@ This repository contains all the Python materials we use for teaching.
 * Manipulating Text Files
 * Visualization with Matplotlib
 
-### Tools for Data Science
-
-* Numpy
-* Scipy
-* Pandas
-* Scientific Data Format Files (netCDF4 and h5py)
-* Introduction to Machine Learning (in preparation)
-
 ### Best Practices
 
 * Python Coding Standards
@@ -27,21 +19,34 @@ This repository contains all the Python materials we use for teaching.
 * Optimizing Python Applications
 * Packaging and Deployment
 
-### Useful Modules
+### Scripting in Python
 
-* datetime
-* subprocess
-* xlrd
+* Transitioning from Python 2 to Python 3
+* Python Decorators
+* Passing Parameters to Applications (argparse, click, configparser)
+
+### Tools for Data Science
+
+* Numpy
+* Scipy
+* Pandas
+* Scientific Data Format Files (netCDF4 and h5py)
+* Serialization and Deserialization (pickle, json)
+* Data Retrieval
+* Introduction to Machine Learning (in preparation)
+* Parallel Data Processing with Dask (in preparation)
+
+### Multi-Threading and Multi-Processing
+
+* subprocess Module
+* threading Module (in preparation)
+* multiprocessing Module (in preparation)
 
 ### Other Topics
 
 * Object Oriented Programming
-* Transitioning from Python 2 to Python 3
-* Python Decorators
-* Serialization and Deserialization (pickle, json)
-* Data Retrieval
-* Passing Parameters to Applications (argparse, click, configparser)
 * Exception Handling
 * Overview of IO (manipulating various file formats: text, bin, cvs, nc4, hdf5, etc.)
-
+* datetime Module
+* xlrd Module
 
