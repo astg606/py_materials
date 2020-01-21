@@ -42,6 +42,15 @@ This repository contains all the Python materials we use for teaching.
 * threading Module (in preparation)
 * multiprocessing Module (in preparation)
 
+### Interoperability
+
+* Introduction to F2Py (in preparation)
+* Introduction to Cython (in preparation)
+
+### Version Control
+
+* Introduction to Git (in preparation)
+
 ### Other Topics
 
 * Object Oriented Programming
