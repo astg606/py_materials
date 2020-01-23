@@ -33,6 +33,7 @@ This repository contains all the Python materials we use for teaching.
 * Scientific Data Format Files (netCDF4 and h5py)
 * Serialization and Deserialization (pickle, json)
 * Data Retrieval
+* Exploratory Data Analysis with Python (in preparation)
 * Introduction to Machine Learning (in preparation)
 * Parallel Data Processing with Dask (in preparation)
 
