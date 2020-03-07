@@ -2,6 +2,9 @@
 
 This repository contains all the Python materials we use for teaching.
 
+### Jupyter Notebook
+* Introduction to Jupyter Notebook
+
 ### Python Fundamentals
 
 * Basic Data Types
@@ -33,8 +36,12 @@ This repository contains all the Python materials we use for teaching.
 * Scientific Data Format Files (netCDF4 and h5py)
 * Serialization and Deserialization (pickle, json)
 * Data Retrieval
-* Exploratory Data Analysis with Python (in preparation)
-* Introduction to Machine Learning (in preparation)
+* Introduction to Machine Learning 
+      - Basic Concepts of Machine Learning
+      - Exploratory Data Analysis with Python 
+      - Regression Modeling with Scikit-Learn
+      - Regression Modeling with Tensorflow
+      - Supervised Modeling with Scikit-Learn
 * Parallel Data Processing with Dask (in preparation)
 
 ### Multi-Threading and Multi-Processing
@@ -50,7 +57,7 @@ This repository contains all the Python materials we use for teaching.
 
 ### Version Control
 
-* Introduction to Git (in preparation)
+* Introduction to Git 
 
 ### Other Topics
 
