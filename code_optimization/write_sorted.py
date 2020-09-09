@@ -1,6 +1,7 @@
-"""Sorting a large, randomly generated string and writing it to disk"""
+"""
+   Sorting a large, randomly generated string and writing it to disk
+"""
 import random
-
 
 def write_sorted_letters(nb_letters=10**7):
     random_string = ''
