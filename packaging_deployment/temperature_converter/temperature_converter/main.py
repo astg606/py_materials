@@ -37,39 +37,39 @@ for key, value in yaml_content.items():
               #-----------------
         for val in value['vals']:
             var = temperature_functions.convert_kelvin_to_celcius(val)
-            print("\t {:0.2f} degree K --> {:0.2f} degree C".format(val, var))
+            print("\t {:7.3f} degree K --> {:7.3f} degree C".format(val, var))
 
     if key == 'KtoF':
         print("Kelvin to Fahrenheit")
               #---------------------
         for val in value['vals']:
             var = temperature_functions.convert_kelvin_to_fahrenheit(val)
-            print("\t {:0.2f} degree K --> {:0.2f} degree F".format(val, var))
+            print("\t {:7.3f} degree K --> {:7.3f} degree F".format(val, var))
 
     if key == 'CtoK':
         print("Celcius to Kelvin")
               #-----------------
         for val in value['vals']:
             var = temperature_functions.convert_celcius_to_kelvin(val)
-            print("\t {:0.2f} degree C --> {:0.2f} degree K".format(val, var))
+            print("\t {:7.3f} degree C --> {:7.3f} degree K".format(val, var))
 
     if key == 'CtoF':
         print("Celcius to Fahrenheit")
               #----------------------
         for val in value['vals']:
             var = temperature_functions.convert_celcius_to_fahrenheit(val)
-            print("\t {:0.2f} degree C --> {:0.2f} degree F".format(val, var))
+            print("\t {:7.3f} degree C --> {:7.3f} degree F".format(val, var))
 
     if key == 'FtoK':
         print("Fahrenheit to Kelvin")
               #-----------------
         for val in value['vals']:
             var = temperature_functions.convert_fahrenheit_to_kelvin(val)
-            print("\t {:0.2f} degree F --> {:0.2f} degree K".format(val, var))
+            print("\t {:7.3f} degree F --> {:7.3f} degree K".format(val, var))
 
     if key == 'FtoC':
         print("Fahrenheit to Celcius")
               #----------------------
         for val in value['vals']:
             var = temperature_functions.convert_fahrenheit_to_celcius(val)
-            print("\t {:0.2f} degree F --> {:0.2f} degree C".format(val, var))
+            print("\t {:7.3f} degree F --> {:7.3f} degree C".format(val, var))
