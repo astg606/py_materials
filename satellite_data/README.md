@@ -20,15 +20,15 @@ Wherever possible, we will compare observations with model outputs.
 
 The following topics are covered:
 
-1- Jan 31: Numpy
-2- Feb 07: Visualization with Matplotlib and Cartopy
-3- Feb 14: Reading Scientific Data Format Files (netCDF4, pyhdf, h5py)
-4- Feb 21: Xarray: Creating Xarray DataSets using Numpy Arrays
-5- Feb 28: Using netCDF4 and Xarray to Manipulate AOD and VIIRS Data
-6- Mar 07: Using pyhdf and Xarray to Manipulate MODIS and Landsat Data
-7- Mar 14: Using h5py and Xarray to Manipuate OMI Data
+- Jan 31: Numpy
+- Feb 07: Visualization with Matplotlib and Cartopy
+- Feb 14: Reading Scientific Data Format Files (netCDF4, pyhdf, h5py)
+- Feb 21: Xarray: Creating Xarray DataSets using Numpy Arrays
+- Feb 28: Using netCDF4 and Xarray to Manipulate AOD and VIIRS Data
+- Mar 07: Using pyhdf and Xarray to Manipulate MODIS and Landsat Data
+- Mar 14: Using h5py and Xarray to Manipuate OMI Data
 
-Useful Pointers:
+### Useful Pointers:
 
 - [Examples of accessing NASA HDF/HDF-EOS files using Python](http://hdfeos.org/zoo/index_openPODAAC_Examples.php#MODIS)
 - [Satellite Imagery Analysis in Python Part I: GOES-16 Data, netCDF Files, and The Basemap Toolkit](https://makersportal.com/blog/2019/7/8/satellite-imagery-analysis-in-python-part-i-goes-16-data-netcdf-files-and-the-basemap-toolkit)
