@@ -25,12 +25,12 @@ The following topics are covered:
 - Feb 14: Reading Scientific Data Format Files (netCDF4, pyhdf, h5py)
 - Feb 21: Xarray: Creating Xarray DataSets using Numpy Arrays
 - Feb 28: Using netCDF4 and Xarray to Manipulate AOD and VIIRS Data
-- Mar 07: Using pyhdf and Xarray to Manipulate MODIS and Landsat Data
+- Mar 07: Using pyhdf and Xarray to Manipulate LAADS MODIS and Landsat Data
 - Mar 14: Using h5py and Xarray to Manipuate OMI Data
 
 ### Useful Pointers:
 
-- [Examples of accessing NASA HDF/HDF-EOS files using Python](http://hdfeos.org/zoo/index_openPODAAC_Examples.php#MODIS)
+- [Examples of accessing NASA HDF/HDF-EOS files using Python](https://hdfeos.org/zoo/index_openLaRC_Examples.php)
 - [Satellite Imagery Analysis in Python Part I: GOES-16 Data, netCDF Files, and The Basemap Toolkit](https://makersportal.com/blog/2019/7/8/satellite-imagery-analysis-in-python-part-i-goes-16-data-netcdf-files-and-the-basemap-toolkit)
 - [STAR Atmospheric Composition Product Training](https://www.star.nesdis.noaa.gov/atmospheric-composition-training/)
 - [Visualizing Global Land Temperatures in Python with scrapy, xarray, and cartopy](https://cbrownley.wordpress.com/category/python/)
