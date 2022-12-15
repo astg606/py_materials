@@ -10,7 +10,8 @@ information of the covered areas, might not be readily available.
 We need to understand the metadata of each file and write code
 segments to extract appropriate information and data from the file.
 The goal of this course series is to provide the necessary Python skills
-to confidently access satellite datasets.
+to confidently access satellite datasets, and to present sample workflows on how to
+read and manipulate data from the files.
 We will be able to read observations from files
 (using pyhdf, h5py, Xarray), extract latitude/longitude information,
 and use them to create Xarray DataSets.
