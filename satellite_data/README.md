@@ -21,7 +21,7 @@ Wherever possible, we will compare observations with model outputs.
 
 The following topics are covered:
 
-- Jan 31: Numpy
+#### Jan 31: Numpy
 
 NumPy (Numerical Python) is a library consisting of multidimensional array objects and a 
 collection of routines for processing those arrays. 
@@ -34,7 +34,7 @@ This course introduces the structure of Numpy arrays, show various ways to creat
 to facilitate numerical calculations. We will also present how to perform array slicing, 
 in-place arithmetic, etc. and how to use built-in mathematical functions for faster computations.
 
-- Feb 07: Visualization with Matplotlib and Cartopy
+#### Feb 07: Visualization with Matplotlib and Cartopy
 
 Matplotlib is one of the most popular Python packages used for data visualization. 
 It is a cross-platform library for making 2D plots from data in arrays. 
@@ -47,12 +47,12 @@ produce various plots with Matplotlib.
 We will also use the Matplotlib object oriented formulation (figure and axes)
 to visualize geospatial data.
 
-- Feb 14: Reading Scientific Data Format Files (netCDF4, pyhdf, h5py)
+#### Feb 14: Reading Scientific Data Format Files (netCDF4, pyhdf, h5py)
 
 In this course, we will learn how to read netCDF, HDF4 and HDF5 files
 using Python.
 
-- Feb 21: Xarray: Creating Xarray DataSets using Numpy Arrays
+#### Feb 21: Xarray: Creating Xarray DataSets using Numpy Arrays
 
 Xarray is an open-source library providing high-level, easy-to-use data structures 
 and analysis tools for working with multidimensional labeled datasets and arrays in Python. 
@@ -66,23 +66,23 @@ using Numpy arrays.
 We will also combine Xarray and Hvplot to produce interactive and live plots.
 
 
-- Feb 28: Using netCDF4 and Xarray to Manipulate AOD and VIIRS Data
+#### Feb 28: Using netCDF4 and Xarray to Manipulate AOD and VIIRS Data
 
 
-- Mar 07: Using Python to Access MODIS and Landsat Data Files
+#### Mar 07: Using Python to Access MODIS and Landsat Data Files
 
 We use pyhdf to access MODIS and Landsat data files.
 We create various workflows to extract data from the files, 
 and create Xarray objects that are used for data manipulation and visualization.
 
-- Mar 14: Using h5py and Xarray to Access OMI Data File
+#### Mar 14: Using h5py and Xarray to Access OMI Data File
 
 We use h5py to access Ozone Monitoring Instrument (OMI) data files.
 We create a workflow to extract all the datasets from the files, 
 and create Xarray objects that are used for data manipulation and visualization.
 
 
-### Useful Pointers:
+## Useful Pointers:
 
 - [Examples of accessing NASA HDF/HDF-EOS files using Python](https://hdfeos.org/zoo/index_openLaRC_Examples.php)
 - [Satellite Imagery Analysis in Python Part I: GOES-16 Data, netCDF Files, and The Basemap Toolkit](https://makersportal.com/blog/2019/7/8/satellite-imagery-analysis-in-python-part-i-goes-16-data-netcdf-files-and-the-basemap-toolkit)
