@@ -69,13 +69,13 @@ We will also combine Xarray and Hvplot to produce interactive and live plots.
 #### Feb 28: Using netCDF4 and Xarray to Manipulate AOD and VIIRS Data
 
 
-#### Mar 07: Using Python to Access MODIS and Landsat Data Files
+#### Mar 07: Using Python Tools to Access MODIS and Landsat Data Files
 
 We use pyhdf to access MODIS and Landsat data files.
 We create various workflows to extract data from the files, 
 and create Xarray objects that are used for data manipulation and visualization.
 
-#### Mar 14: Using h5py and Xarray to Access OMI Data File
+#### Mar 14: Using Python Tools to Access OMI Data File
 
 We use h5py to access Ozone Monitoring Instrument (OMI) data files.
 We create a workflow to extract all the datasets from the files, 
