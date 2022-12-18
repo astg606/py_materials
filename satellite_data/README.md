@@ -49,10 +49,15 @@ to visualize geospatial data.
 
 #### Feb 14: Reading Scientific Data Format Files (netCDF4, pyhdf, h5py)
 
-In this course, we will learn how to read netCDF, HDF4 and HDF5 files
-using Python.
+In this course, we learn how to read netCDF (with netCDF4), 
+HDF4 (with pyhdf) and HDF5(with h5py) files using Python.
+We access the files to identify the metadata, the groups (if available),
+and the datasets. 
+We also extract the data from the datasets and use the datasets attributes
+(scale factor, offset and fill value) to restore the data before doing
+manipulation and visualization.
 
-#### Feb 21: Xarray: Creating Xarray DataSets using Numpy Arrays
+#### Feb 21: Creating Xarray DataSets using Numpy Arrays
 
 Xarray is an open-source library providing high-level, easy-to-use data structures 
 and analysis tools for working with multidimensional labeled datasets and arrays in Python. 
@@ -66,7 +71,16 @@ using Numpy arrays.
 We will also combine Xarray and Hvplot to produce interactive and live plots.
 
 
-#### Feb 28: Using netCDF4 and Xarray to Manipulate AOD and VIIRS Data
+#### Feb 28: Python Workflows for GOES-R/ABI & JPSS/VIIRS Data
+
+Participants will learn the proper Python workflows for processing and visualizing 
+satellite data from NOAA’s GOES-R/ABI (geostationary) and 
+JPSS/VIIRS (polar-orbiting) netCDF4 (.nc) files.  
+Examples will focus on satellite observations of recent wildfire and blowing dust events.  
+Covered workflow steps include opening data files, reading metadata, understanding 
+the file structure, and extracting data variables using the Xarray and netCDF4 packages; 
+processing satellite data using the NumPy package; and plotting satellite data on a map 
+to make a professional-quality image using the Matplotlib and Cartopy packages.
 
 
 #### Mar 07: Using Python Tools to Access MODIS and Landsat Data Files
