@@ -68,7 +68,9 @@ Xarray introduces labels in the form of dimensions, coordinates and attributes o
 raw Numpy-like arrays. It is particularly tailored to working with netCDF files.
 In this course, we will learn to create Xarray DataArrays and Xarray DataSets
 using Numpy arrays.
-We will also combine Xarray and Hvplot to produce interactive and live plots.
+With the Xarray objects, we will have the ability to select slices of the data,
+perform interpolations on the fly, quickly do various visualizations, use  
+Hvplot to produce interactive plots, and easily save desired data in netCDF files.
 
 
 #### Feb 28: Python Workflows for GOES-R/ABI & JPSS/VIIRS Data
