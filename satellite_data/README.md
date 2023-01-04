@@ -21,20 +21,20 @@ Wherever possible, we will compare observations with model outputs.
 
 The following topics are covered:
 
-#### Jan 31: Numpy
+#### Numpy
 
 NumPy (Numerical Python) is a library consisting of multidimensional array objects and a 
 collection of routines for processing those arrays. 
 It is meant to provide an array object that is at least an order of magnitude faster than 
 traditional Python lists. 
 Using NumPy, mathematical and logical operations on arrays can be efficiently performed. 
-NumPy is the foundation of an extensive ecosystem of Python products and Data Sciencelibraries
+NumPy is the foundation of an extensive ecosystem of Python products and Data Science libraries
 such as SciPy, Pandas, Scikit-Learn, Matplolib, Seaborn, etc.
 This course introduces the structure of Numpy arrays, show various ways to create them 
 to facilitate numerical calculations. We will also present how to perform array slicing, 
 in-place arithmetic, etc. and how to use built-in mathematical functions for faster computations.
 
-#### Feb 07: Visualization with Matplotlib and Cartopy
+#### Visualization with Matplotlib and Cartopy
 
 Matplotlib is one of the most popular Python packages used for data visualization. 
 It is a cross-platform library for making 2D plots from data in arrays. 
@@ -47,7 +47,7 @@ produce various plots with Matplotlib.
 We will also use the Matplotlib object oriented formulation (figure and axes)
 to visualize geospatial data.
 
-#### Feb 14: Reading Machine-Independent Geoscience Data Files with Python
+#### Reading Machine-Independent Geoscience Data Files with Python
 
 In this course, we learn how to read netCDF (with netCDF4), 
 HDF4 (with pyhdf) and HDF5(with h5py) files using Python.
@@ -57,7 +57,7 @@ We also extract the data from the datasets and use the datasets attributes
 (scale factor, offset and fill value) to restore the data before doing
 manipulations and visualizations.
 
-#### Feb 21: Creating Xarray Objects using Numpy Arrays
+#### Creating Xarray Objects using Numpy Arrays
 
 Xarray is an open-source library providing high-level, easy-to-use data structures 
 and analysis tools for working with multidimensional labeled datasets and arrays in Python. 
@@ -73,7 +73,7 @@ perform interpolations on the fly, quickly do various visualizations, use
 Hvplot to produce interactive plots, and easily save desired data in netCDF files.
 
 
-#### Feb 28: Python Workflows for GOES-R/ABI & JPSS/VIIRS Data
+#### Python Workflows for GOES-R/ABI & JPSS/VIIRS Data
 
 Participants will learn the proper Python workflows for processing and visualizing 
 satellite data from NOAA’s GOES-R/ABI (geostationary) and 
@@ -85,14 +85,14 @@ processing satellite data using the NumPy package; and plotting satellite data o
 to make a professional-quality image using the Matplotlib and Cartopy packages.
 
 
-#### Mar 07: Using Python Tools to Access MODIS and Landsat Data Files
+#### Using Python Tools to Access MODIS and Landsat Data Files
 
 We use pyhdf to access the Moderate Resolution Imaging Spectroradiometer (MODIS) 
 and Landsat data files.
 We present various workflows to extract data from the files, 
 and create Xarray objects that are used for data manipulation and visualization.
 
-#### Mar 14: Using Python Tools to Access OMI Data Files
+#### Using Python Tools to Access OMI Data Files
 
 We use h5py to access Ozone Monitoring Instrument (OMI) data files.
 We create a workflow to extract all the datasets from the files, 
