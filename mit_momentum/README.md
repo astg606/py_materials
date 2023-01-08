@@ -1,5 +1,6 @@
 # MIT Momentum
 
+![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) 
 ![MIT](https://cdn.uconnectlabs.com/wp-content/uploads/sites/123/2021/08/OME-featured.png?v=14172)
 
 ## Momentum 2023
