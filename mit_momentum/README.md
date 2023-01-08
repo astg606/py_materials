@@ -1,6 +1,6 @@
 # MIT Momentum
 
-<img src="http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" width="200"/> <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/123/2021/08/OME-featured.png" width="400"/>
+<img src="http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" width="200"/> <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/123/2021/08/OME-featured.png" width="600"/>
 
 
 ## Momentum 2023
