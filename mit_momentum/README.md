@@ -20,3 +20,7 @@ In case you want to assess your Python knowledge, take the following test (in le
 <div align="center">
 <a href="https://forms.gle/mGQt4nFDLa5fHU5q9" target="_blank">Python Assessment Test</a>
 </div>
+
+### Exercise
+
+- **Estimating the Value of Pi** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/mit_momentum/mit_estimating_pi.ipynb)
