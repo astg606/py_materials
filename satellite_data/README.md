@@ -72,6 +72,8 @@ With the Xarray objects, we have the ability to select slices of the data,
 perform interpolations on the fly, quickly do various visualizations, use  
 Hvplot to produce interactive plots, and easily save desired data in netCDF files.
 
+The materials are available from Google Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/satellite_data/xarray_numpy.ipynb)
+
 
 #### Python Workflows for GOES-R/ABI & JPSS/VIIRS Data
 
