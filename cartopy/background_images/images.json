@@ -1,0 +1,38 @@
+{"__comment__": "JSON file specifying the image to use for a given type/name and resolution. Read in by cartopy.mpl.geoaxes.read_user_background_images.",
+
+  "BlackMarble": {
+    "__comment__": "Black Marble - Earth at Night",
+    "__source__": "https://www.nasa.gov/specials/blackmarble/2016/globalmaps/BlackMarble_2016_3km.jpg",
+    "__projection__": "PlateCarree",
+    "high": "Earth_at_Night_BlackMarble_2016_3km.jpg"
+  },
+
+  "shallow_topo": {
+    "__comment__": "land shallow topography",
+    "__source__": "https://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57752/land_shallow_topo_2048.jpg",
+    "__projection__": "PlateCarree",
+    "high": "land_shallow_topo_2048.jpg"
+  },
+
+  "EOBM": {
+    "__comment__": "Explorer Observatory base map",
+    "__source__": "https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147190/eo_base_2020_clean_720x360.jpg",
+    "__projection__": "PlateCarree",
+    "high": "ExplorerBaseMap_2020_clean_720x360.jpg"
+  },
+
+  "BM": {
+    "__comment__": "Blue Marble Next Generation, December ",
+    "__source__": "ihttps://eoimages.gsfc.nasa.gov/images/imagerecords/74000/74218/world.200412.3x5400x2700.jpg",
+    "__projection__": "PlateCarree",
+    "high": "BM_world.200412.3x5400x2700.jpg"
+  },
+
+  "BM_topo": {
+    "__comment__": "Blue Marble/Topography Next Generation, December  - https://www.visibleearth.nasa.gov/images/73909/december-blue-marble-next-generation-w-topography-and-bathymetry/73911l",
+    "__source__": "https://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73909/world.topo.bathy.200412.3x5400x2700.jpg",
+    "__projection__": "PlateCarree",
+    "high": "BM_world.topo.bathy.200412.3x5400x2700.jpg"
+  }
+
+}
