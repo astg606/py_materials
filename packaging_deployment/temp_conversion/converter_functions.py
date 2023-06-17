@@ -31,6 +31,13 @@ def from_celcius_to_kelvin(temperatureC):
     """
     return temperatureC + zeroCelcius
 
+def from_kelvin_to_celcius(temperatureK):
+    """
+    Convert the temperature from
+    Kelvin to Celcius
+    """
+    return temperatureK - zeroCelcius
+
 def from_kelvin_to_fahrenheit(temperatureK):
     """
     Convert the temperature from
